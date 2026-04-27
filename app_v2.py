@@ -1,9 +1,3 @@
-"""
-Chicago Personal Travel Agent - AI Enhanced
-A Streamlit app with AI-powered hotel recommendations
-Uses Google Gemini for personalized suggestions and Sentence Transformers for semantic similarity
-"""
-
 import streamlit as st
 import os
 from dotenv import load_dotenv
